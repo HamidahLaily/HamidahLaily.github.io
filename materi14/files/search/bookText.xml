@@ -1,0 +1,366 @@
+﻿<?xml version="1.0" encoding="utf-8"?><Search><pages Count="6"><page Index="1"><![CDATA[Pengolahan Data
+
+
+
+
+
+
+                 dan Analisa Data]]></page><page Index="2"><![CDATA[Proses Pengolahan Data
+
+
+
+
+
+
+                   Pengolahan Data Kuantitatif
+
+
+
+
+                       Tahap Pemeriksaan Data (Editing)
+
+
+                        Langkah  pertama  yang  dilakukan  dalam  pengolahan  data  adalah  melakukan
+                        editing. Proses editing dilakukan dengan tujuan memperbaiki kualitas data dan
+
+                        menghilangkan keraguan-keraguan data. Jika terdapat jawaban yang tidak jelas
+                        penulisannya  atau  ada  butir  pertanyaan  (pernyataan)  yang  tidak  terisi,
+
+                        pengumpul  data  yang  bersangkutan  diminta  untuk  memperjelas  atau
+
+                        melengkapinya. Dalam hubungan ini, Atherton dan Klemmack memberikan dua
+                        alternatifyaitu sebagai berikut.
+
+                        a)  Jika butir yang tidak terjawab bersifat acak atau tidak terpusat pada suatu
+
+                            nomor tertentu saja, dapat diisi dengan cara memberikan nilai rata-rata dari
+                            semua butir pernyataan yang diisi oleh responden.
+
+                        b)  Jika  secara  umum  responden  mengabaikan  suatu  nomor  tertentu,
+                            dimungkinkan butir pernyataan tersebut yang tidak benar sehingga strategi
+
+                            yang terbaik adalah membuang butir pernyataan tersebut.
+
+
+                            Selain  kelengkapan  dan  kejelasan  tulisan  tersebut,  proses  editing  juga
+
+                        dilakukan terhadap pemahaman catatan, konsistensi data, keseragaman satuan
+                        yang digunakan dalam data, dan kesesuaian jawaban.Dengan demikian, segala
+
+                        macam  singkatan  harus  diubah  menjadi  kalimat  sempurna  sehingga  akan
+
+                        memudahkan pengodean.
+
+                       Tahap Pembuatan Kode
+
+
+                                Pengodean  data  merupakan  proses  memberikan  simbol-simbol  yang
+
+                        berupa  angka-angka  pada  jawaban-jawaban  responden  yang  telah
+                        terkumpul.  Simbol  yang  berupa  angka-angka  itulah  yang  disebut  dengan
+
+                        kode. Pengodean dapat dilakukan dengan beberapa cara sebagai berikut.
+                                   a)  Pengkodean terhadapJaaban yang Berupa Angka
+
+                                       data  yang  terkumpul,  ada  yang  berupa  angka-angka  ataupun
+
+                                       kalimat-kalimat.     Data    yang     berupa     angka,    misalnya
+                                       menyangkut tentang jumlah usia, jumlah penghasilan, jumlah
+
+                                       penduduk, luas bangunan, panjang jalan, dan jumlah anak.
+
+
+
+
+
+          1]]></page><page Index="3"><![CDATA[No.                Pertanyaan                         Jawaban                  Kode
+                 1  Berapa Luas Perkebunan teh tersebut?             327 hektare                 327
+
+                 2      Berapa Jumlah gaji pegawai para             Rp475.000,00              475.000
+
+                      pekerja kebun the tersebut selama 1
+                                       bulan?
+
+                 3      Berapakah jumlah pekerjaseluruh               635 Orang                  653
+
+                      tenaga kerja yang ada di perkebunan
+                                   teh tersebut
+
+
+
+                        Jika data yang masuk berbentuk interval aka perlu di lakukan pengkodean
+                 seperti berikut.
+
+                 No                Pertanyaan                        Jawaban                  Kode
+               1     Berapakah jumlah rata-rata siswa             a.  <15 siswa       1
+                     yang membolos di SMA X dalam 1               b.  15-30 siswa     2
+                     bulan?                                       c.  >30 siswa       3
+
+
+                      b)   Pengkodean terhadap jawaban dari pertanyaan tertutup
+
+                                 Dalam  pertanyaan  tertutup  sudah  disediakan  beberapa  alternatif
+                          sebagai jawaban. Dengan demikian, responden tinggal memilih salah satu
+
+                          jawaban yang dianggap paling benar sesuai dengan instruksi yang ada. Pada
+                          umumnya alternatif jawaban yang disediakan dapat berupa pilihan-pilihan
+
+                          sesuai dengan huruf ataupun angka yang disediakan. Selain itu, dapat juga
+                          berupa  alternatif  jawaban  ya  atau  tidak,  setuju  atau  tidak  setuju,  dan
+                 No                 Pertanyaan                       Jawaban                   Kode
+                          Bagaimanakah Pendapat Anda
+                  1       sebagainya.                               Sangat Baik                  1
+                         Terkait media pembelajaran ini ?               Baik                     2
+                                                                      Sedang                     3
+                                                                      Kurang                     4
+                                                                  Sangat Kurang                  5
+
+                      c)   Tahap Memasukan Data (Tabulating)
+
+                                 Tabulasi  merupakan  suatu  proses  pembuatan  tabel-tabel  sesuai
+                          dengan  analisis  yang  dibutuhkan.  Untuk  memudahkan  dalam  proses
+
+                          tabulasi,  peneliti  perlu  membuat  ringkasan  terlebih  dahulu  untuk
+
+                          menghimpun semua data.
+                                 Adapun  format  ringkasan  terdiri  dari  kolom-kolom  dan  baris-baris.
+
+                          Kolom  pertama  yang  terletak  pada  bagian  paling  kiri  digunakan  untuk
+
+                          nomor urut atau kode responden, sedangkan kolom kedua dan seterusnya
+                          digunakan untuk variabel variabel yang terdapat di dalam kuesioner. Baris-
+
+                          baris digunakan untuk menuliskan seluruh responden. Baris pertama untuk
+                          responden pertama, baris kedua untuk responden kedua, dan seterusnya.
+
+                          Setelah semua data diringkas, langkah berikutnya adalah membuat tabel-
+
+                          tabel  untuk  kegiatan  analisis.  Tabulasi  tersebut  dapat  dilakukan  melalui
+                          dua cara yaitu sebagai berikut.
+
+                                 1)  Tabuasi Langsung
+                                 2)  Tabulasi Kode
+
+          2]]></page><page Index="4"><![CDATA[Tabulasi  langsung  dilakukan  untuk  data  yang  jumlah  responden  dan  variablenya
+
+              sangat  sedikit.  Proses  tabulasi  secara  langsung  ini  lazimnya  di  gunakan  dengan  sistem
+
+              tally dengan memberi tanda garis.
+
+
+                                       Table Pencapaian Prestasi Belajar Siswa
+
+                         Kategori                          Tally                        Frekuensi
+                        Baik Sekali                          III                             3
+
+                           Baik                             IIII                             4
+
+                          Cukup                            IIIII II                          7
+                          Kurang                             I                               1
+
+                                          Jumlah                                             15
+
+
+                     Adapun tabulasi dengan lembaran kode dapat dilakukan menggunakan komputer.
+
+              Proses tabulasi seperti ini dilakukan terhadap responden dan variabel data yang sangat
+              banyak. Tabulasi data ke dalam tabel dapat dilakukan dengan membuat tabel frekuensi
+
+              ataupun tabel silang. Tabulasi data ke dalam tabel frekuensi dilakukan sebelum analisis
+              data Tabel silang dibuat dengan tujuan mengetahui hubungan antarvariabel dan disusun
+
+              berdasarkan  variabel  yang  memiliki  hubungan  tertentu  satu  sama  lain,  misalnya
+
+              hubungan jenis kelamin dengan tingkat partisipasi dalam kegiatan ekstra kurikuler.
+
+
+                                    Laki-Laki                Perempuan                     Jumlah
+                 Kategori          F            %             F            %            F             %
+
+                 Paskibra         10            20           12           24            22           44
+                 Pramuka          12            24            7           14            19           38
+                    PMR            4            8             3            6            7            14
+
+
+
+
+
+
+
+
+
+
+
+
+                         d)   Pengkodean terhadap jawaban dari pertanyaan tertutup
+                                   Dalam  pertanyaan  tertutup  sudah  disediakan  beberapa  alternatif
+
+                            sebagai jawaban. Dengan demikian, responden tinggal memilih salah satu
+                            jawaban yang dianggap paling benar sesuai dengan instruksi yang ada. Pada
+
+                            umumnya alternatif jawaban yang disediakan dapat berupa pilihan-pilihan
+
+                            sesuai dengan huruf ataupun angka yang disediakan. Selain itu, dapat juga
+                            berupa  alternatif  jawaban  ya  atau  tidak,  setuju  atau  tidak  setuju,  dan
+
+                            sebagainya.
+
+
+
+
+
+
+
+
+
+
+          3]]></page><page Index="5"><![CDATA[Analisa Data Statistik
+
+
+
+
+
+
+
+                         Modus
+
+
+
+                              Modus merupakan nilai yang paling sering muncul dalam suatu pengukuran,
+                       Mungkin saja dalam suatu perangkat data hanya memiliki satu modus (unimodal),
+
+                       dua  modus  (bimodal),  banyak  modus  (multimodal),  atau  bahkan  tidak  memiliki
+                       modus sama sekali. Untuk data yang dikelompokkan dalam bentuk interval kelas,
+
+                       modusnya terdapat pada interval kelas yang nilainya paling sering muncul. Adapun
+
+                       rumus  yang  digunakan  untuk  mencari  modus  satuan  kelompok  adalah  sebagai
+                       berikut.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                         Median
+
+
+                             Dalam  statistik,  median  diartikan  sebagai  titik  atau  nilai  yang  membagi
+
+                      median  ditemukan  sebesar  50,  akan  terdapat  50%  data  yang  lebih  kecil  dan
+                      seperangkat  data  menjadi  dua  bagian  yang  sama  banyak.  Contoh:  jika  nilai  50%
+
+                      data yang lebih besar dari 50. Dengan demikian, median merupakan nilai tengah
+
+                      dalam sebuah kelompok nilaiyang sudah diurutkan dari nilaiyang terkecil menuju
+                      yang  terbesar.  yaitu  sebagai  berikut.  Terdapat  beberapa  cara  yang  dapat
+
+                      digunakan  untuk  mencari  median  tersebut,  mediannya  adalah  7.  Jika  banyak
+                      anggota  kelompok  nilai  tersebut  ganjil,median  merupakan  nilaiyang  terletak  di
+
+                      tengah-tengah urutan tersebut.Contoh: nilai mata pelajaran sosiologi tujuh pelajar
+
+                      terbaik adalah 4, 5, 6, 7, 8, 9, 10. Berdasarkan data Jika banyak anggota kelompok
+                      nilai  tersebut  genap,  median  merupakan  jumlah  dua  anggota  yang  terletak  di
+
+                      tengah-tengah  urutan  nilai  tersebut  dibagi  dua.  Contoh:  nilai  mata  pelajaran
+
+                      sosiologi enam pelajar terbaik adalah 5, 6, 7, 8, 9, 10, maka mediannya adalah 7+8
+                      /2=  7,5.  Apabila  data  yang  ada  merupakan  data  kelompok  interval  kelas,  untuk
+
+                      mencari median menggunakan rumus sebagai berikut.
+
+
+
+
+
+
+         4]]></page><page Index="6"><![CDATA[Mean
+
+
+
+
+                                   Mean atau rata-rata merupakan jumlah keseluruhan nilai dibagi dengan
+
+                           banyak unit yang ada. Dengan demikian, mean dari nilai mata pelajaran sosiologi
+                            tujuh pelajar terbaik adalah (4 + 5 + 6 + 7 + 8 + 9 + 10) : 7 = 49: 7 = 7. Adapun
+
+                          rumus yang digunakan untuk mencari mean atau rata-rata adalah sebagai berikut.
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                 Adapun menghitung rata-rata untuk data kelompok menggunakan rumus
+
+                         sebagai berikut.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+             Pengolahan Data Kualitatif
+
+
+
+
+
+                     Pengolahan  data  secara  kualitatif  disajikan  dalam  bentuk  narasi  yang
+
+                 membutuhkan  interpretasi  data  lebih  mendalan  Pengolahan  data  kualitatif
+
+                 umumnya dilakukan melalui tiga tahap sebagaiberikut.
+                     1)  Reduksi  dan  kategorisasi  data  Pada  tahap  ini  dilakukan  proses
+
+                        penyederhanaan dan pengkategorian data.
+
+                     2)  Display  data,  merupakan  proses  menampilkan  data  hasil  reduksi  dan
+                        kategorisasi dalam matriks berdasarkan kriteria tertentu.
+
+                     3)  Penarikan kesimpulan, apabila hasil display data menunjukkan bahwa data
+                        yang  diperoleh  telah  cukup  sesuai  dengan  informasi  yang  dibutuhkan,
+
+                        dimulailah  penarikan  kesimpulan  menggunakan  teori  dan  hasil  data  di
+                        lapangan .
+
+                     Dalam  mengolah  data  kualitatif,  peneliti  dituntut  memiliki  kemampuan
+
+                 mengumpul  kan  data,  kreativitas,  kepekaan  mengorganisasikan  data  secara
+                 lengkap  ,  kemampuan  menelaah  masalah  secara  mendalam  ,  menafsirkan  data
+
+                 secara logis , dan mengungkapkan dalam kalimat yang konsisten serta sistematis .
+
+                 Untuk menyajikan data -data kualitatif yang baik, peneliti harus membaca banyak
+                 buku
+
+          5]]></page></pages></Search>
